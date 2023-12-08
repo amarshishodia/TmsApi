@@ -1,0 +1,10 @@
+{
+    "user": "sa",
+    "password": "Etoll@123",
+    "server": "Softomation-Pundir",
+    "database": "TMSv1",
+    "options": {
+      "encrypt": true, 
+      "trustServerCertificate": true
+    }
+  }
